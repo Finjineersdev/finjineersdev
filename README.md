@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Haseeb  
 Senior Mobile App Engineer • Flutter • React Native • Kotlin • Swift
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open_to_Work-Available-success?style=flat" />
+  <img src="https://img.shields.io/badge/Timezone-EU%20%7C%20UK%20%7C%20US%20%7C%20Canada-blue?style=flat" />
+</p>
+
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Mobile+App+Engineer;Flutter+%7C+React+Native;Kotlin+%7C+Swift;Clean+Architecture+%26+Scalable+Apps;Performance+Focused+Mobile+Engineering" />
 </p>
@@ -76,34 +84,12 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Finjineersdev&theme=onestar&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Finjineersdev&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Finjineersdev&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finjineersdev&layout=compact&theme=transparent" />
-</p>
-
----
 
 ## 📫 Contact & Availability
 
-- 💼 LinkedIn: https://www.linkedin.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-haseeb947
 - 📧 Email: mhaseeb.it@gmail.com
+- 📧 Phone: +92 320 4319357
 - 🌍 Open to: Remote roles • Contract • Long-term projects
 
 ---
