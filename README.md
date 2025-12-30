@@ -2,7 +2,7 @@
 Senior Mobile App Engineer • Flutter • React Native • Kotlin • Swift
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Finjineersdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Finjineersdev&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -91,15 +91,15 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Finjineersdev&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Finjineersdev&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finjineersdev&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 ## 📫 Contact & Availability
 
 - 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: contact@finjineers.com
+- 📧 Email: mhaseeb.it@gmail.com
 - 🌍 Open to: Remote roles • Contract • Long-term projects
 
 ---
