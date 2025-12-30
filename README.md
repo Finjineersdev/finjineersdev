@@ -1,19 +1,15 @@
 # 👋 Hi, I'm Haseeb  
 Senior Mobile App Engineer • Flutter • React Native • Kotlin • Swift
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Finjineersdev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Mobile+App+Engineer;Flutter+%7C+React+Native;Kotlin+%7C+Swift;Clean+Architecture+%26+Scalable+Apps;Performance+Focused+Mobile+Engineering" />
 </p>
 
 ---
 
-## 🧭 Profile Summary
+## 🧭 ABOUT ME
 
-**Senior Mobile App Engineer** with **5+ years of experience** delivering **production-grade mobile applications** used by real users at scale.
+**Senior Mobile App Engineer** with **7+ years of experience** delivering **production-grade mobile applications** used by real users at scale.
 
 I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing on **clean architecture**, **performance optimization**, and **maintainable codebases**. I’m comfortable joining **existing large codebases**, leading features end-to-end, and collaborating with cross-functional teams.
 
@@ -22,7 +18,7 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 
 ---
 
-## 💼 What I Bring (Recruiter-Friendly)
+## 💼 What I Bring
 
 - Strong experience with **large, long-running projects**
 - Clean Architecture, MVVM, feature-based structuring
