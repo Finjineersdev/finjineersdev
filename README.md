@@ -87,12 +87,26 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 
 ## 📫 Contact & Availability
 
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-haseeb947" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mhaseeb.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+923204319357">
+    <img src="https://img.shields.io/badge/Phone-Call%20Me-success?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
+
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-haseeb947
 - 📧 Email: mhaseeb.it@gmail.com
-- 📧 Phone: +92 320 4319357
-- 🌍 Open to: Remote roles • Contract • Long-term projects
+- 🟢 Availability: **Open to Work**
+- ⏰ Timezone Coverage: **EU • UK • US • Canada**
+- 📞 Phone: **+92 320 4319357**
 
 ---
+
 
 > “Clean architecture makes scaling teams and apps effortless.”
 
