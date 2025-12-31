@@ -46,32 +46,24 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 - Reliable delivery & maintainable code
 
 ---
-
 ## 🛠️ Core Tech Stack
+## 📱 Mobile & Frontend
+<p> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </p>
 
-### 📱 Mobile Platforms
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+## 🧱 Backend, APIs & Cloud
+<p> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> </p>
 
-### 🧱 Architecture & State
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-2E3440?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Riverpod-007ACC?style=for-the-badge&logo=flutter" />
-</p>
+## 🗄️ Databases & Storage
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> </p>
 
-### 🔗 Backend & Services
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-</p>
+## 🧩 Architecture, State & Tooling
+<p> <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/BLoC-2E3440?style=for-the-badge&logo=flutter" /> <img src="https://img.shields.io/badge/Riverpod-007ACC?style=for-the-badge&logo=flutter" /> </p>
 
----
+## 🎨 UI/UX & Design
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </p>
+
+## ⚙️ DevOps, CI/CD & Collaboration
+<p> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" /> </p>
 
 ## 🔥 Key Strengths
 
@@ -108,6 +100,6 @@ I work across **Flutter**, **React Native**, **Kotlin**, and **Swift**, focusing
 ---
 
 
-> “Clean architecture makes scaling teams and apps effortless.”
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ⭐ Follow for Flutter architecture, performance tuning & real-world mobile engineering.
