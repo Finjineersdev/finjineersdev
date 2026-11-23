@@ -23,6 +23,7 @@ I build production AI systems: retrieval pipelines, agent workflows, and the bac
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**EU AI Act, cited**](https://github.com/Finjineersdev/eu-ai-act-rag) | Ask the EU AI Act a question and get an answer where every citation is checked in code against the official text. Hybrid retrieval, Claude with Citations, guards for truncation, refusals and user pushback, and published evals: 240/240 citations verified, 5/5 pushback cases held. | Python · FastAPI · Claude API · BM25 + embeddings · Docker · GitHub Actions |
 | [**OpenSweep**](https://github.com/Finjineersdev/OpenSweep) | Open-source developer disk cleaner for macOS. Finds rebuildable folders (`node_modules`, `.venv`, `target`…), explains why each one is safe to remove, and makes every clean reversible. Ships with signed releases, an SBOM, build attestations and a Homebrew cask. | Rust · Swift · Python · GitHub Actions |
 | [**STRATA OS backend**](https://github.com/Finjineersdev/strata-os-backend) | Event-driven backend for AI agents. Creating an agent publishes an event over Redis, a worker calls the OpenAI API and the result is logged to PostgreSQL. JWT-protected, documented with Swagger, runs in Docker. | NestJS · TypeScript · PostgreSQL · Redis · OpenAI |
 | **AI client work** *(private)* | RAG pipelines and agent workflows at Finjineers that find customer patterns and answer user questions over company data. | Python · FastAPI · LangChain · LLM APIs |
